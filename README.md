@@ -1,5 +1,3 @@
-# findNewFriends-Homework
-complete files for hw submission
 1. My survey should have 10 questions of your choosing. Each answer is on a scale of 1 to 5 based on how much the user agrees or disagrees with a question.
 ​
 2. My `server.js` file requires the basic npm packages: `express` and `path`.
